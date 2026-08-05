@@ -1,0 +1,10 @@
+[project]
+name = "zoey-website-project"
+version = "0.1.0"
+description = "a website for my resume and projects and whatnot"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit",
+    "numpy"
+]
